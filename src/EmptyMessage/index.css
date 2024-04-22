@@ -1,0 +1,14 @@
+.empty-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  height: 82vh;
+}
+.heading {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 30px;
+  font-weight: bold;
+}
